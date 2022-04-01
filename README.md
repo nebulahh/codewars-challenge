@@ -1,4 +1,4 @@
-# codewars-challenge
+# codewars-challenge-solutions
 
 There will be a daily upload of codewars solution here. The language will mostly be JavaScript because my current area of specialty is JS. 
 
